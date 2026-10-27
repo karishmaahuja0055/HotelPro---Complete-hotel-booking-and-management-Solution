@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro - Indian Hospitality Management & Booking System",
+  "description": "Enterprise-grade Indian hospitality and hotel management platform featuring multi-property booking, Razorpay integration, GST tax invoicing, role-based dashboards (Guest, Staff, Manager, Super Admin), housekeeping, and check-in/out workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
